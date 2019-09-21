@@ -1,1 +1,1 @@
-# Couresera course about data science and python with collaboration of IBM and Watson studio   
+# Data science and python course in Coursera with collaboration of IBM and Watson studio   
