@@ -1,1 +1,1 @@
-# Data science and python course in Coursera with collaboration of IBM and Watson studio   
+# analysing US economy features and builing a dashboard using python on watsonStudio 
